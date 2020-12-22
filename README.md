@@ -1,2 +1,2 @@
 # Notes
-Simple notes application implemented with SQLite db.
+Simple notes (Android) application implemented with SQLite db. User can ADD, DELETE, UPDATE content.
